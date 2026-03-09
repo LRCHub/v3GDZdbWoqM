@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Vacay",
+  "base_artist": "Aminé",
+  "createdAt": "2026-03-09T15:04:54.660032Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vacay To Bonetown (Verosika's Song)",
+      "artist": "Sam Haft",
+      "has_synced": true,
+      "path": "select/01_Vacay_To_Bonetown_(Verosika's_Song)_Sam_Haft.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Vacay To Bonetown (Verosika's Song) - Alt Demo",
+      "artist": "Sam Haft",
+      "has_synced": true,
+      "path": "select/02_Vacay_To_Bonetown_(Verosika's_Song)_-_Alt_Demo_Sam_Haft.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "VACAY",
+      "artist": "YENA",
+      "has_synced": true,
+      "path": "select/03_VACAY_YENA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vacay Island",
+      "artist": "Daveed Diggs feat. India Carney & Ty Taylor",
+      "has_synced": true,
+      "path": "select/04_Vacay_Island_Daveed_Diggs_feat._India_Carney_&_Ty_Taylor.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vacay Island",
+      "artist": "Daveed Diggs",
+      "has_synced": true,
+      "path": "select/05_Vacay_Island_Daveed_Diggs.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dark Vacay",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/06_Dark_Vacay_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dark Vacay - Cigarettes After Sex",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/07_Dark_Vacay_-_Cigarettes_After_Sex_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dark Vacay",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/08_Dark_Vacay_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Vacay to Bonetown (From \"Helluva Boss\")",
+      "artist": "Dolphin Smiling",
+      "has_synced": false,
+      "path": "select/09_Vacay_to_Bonetown_(From__Helluva_Boss_)_Dolphin_Smiling.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vacay To Bonetown (Verosika's Song)",
+      "artist": "Sam Haft",
+      "has_synced": true,
+      "path": "select/10_Vacay_To_Bonetown_(Verosika's_Song)_Sam_Haft.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Vacay To Bonetown (Verosika's Song) (Alt Demo)",
+      "artist": "Sam Haft",
+      "has_synced": true,
+      "path": "select/11_Vacay_To_Bonetown_(Verosika's_Song)_(Alt_Demo)_Sam_Haft.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dark Vacay",
+      "artist": "Cigarettes After Sex",
+      "has_synced": true,
+      "path": "select/12_Dark_Vacay_Cigarettes_After_Sex.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vacay Island",
+      "artist": "Daveed Diggs, India Carney & Ty Taylor",
+      "has_synced": true,
+      "path": "select/13_Vacay_Island_Daveed_Diggs,_India_Carney_&_Ty_Taylor.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vacay",
+      "artist": "Aminé",
+      "has_synced": false,
+      "path": "select/pl_01_Vacay_Aminé.txt"
+    }
+  ]
+}
